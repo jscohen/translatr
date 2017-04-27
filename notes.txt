@@ -1,0 +1,27 @@
+Reviewr app
+
+Anyone can post reviews
+Sections or categories for reviews
+User login and authentication
+Review objects and retrieve reviews
+API: Create User, Post Review, Update User with new reviews, Delete Review, Delete User
+
+Stories: I want to post a review about my favorite album
+I want to get all of my reviews
+I want to read other reviews of my favorite album
+I want to browse reviews
+I want to be able to delete my reviews if I want
+I want to be able to read reviews by a specific user
+I want to follow a specific user
+I want to be able to unfollow a specific user
+I want to be able to find reviews by a specific topic
+I want to be able to update reviews that I have already posted
+
+Create User
+Sign in User
+Post Review
+Update User
+Update Review
+Update User
+Get Reviews
+Destroy Reviews
